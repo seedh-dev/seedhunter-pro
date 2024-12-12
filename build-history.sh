@@ -8,7 +8,7 @@ set -e
 commit_at() {
   local date="$1"
   local msg="$2"
-  GIT_AUTHOR_DATE="$date" GIT_COMMITTER_DATE="$date" git commit --allow-empty-message -m "$msg"
+  GIT_AUTHOR_DATE="$date" GIT_COMMITTER_DATE="$date" git commit --allow-empty -m "$msg"
 }
 
 add_and_commit() {
