@@ -1,18 +1,11 @@
-# SeedHunter Pro
+# SeedHunter
 
-Advanced multi-chain cryptocurrency seed phrase recovery suite.
-
-## Supported Chains (10)
-- Bitcoin (BTC) — bc1q Bech32
-- Ethereum (ETH) — 0x EIP-55
-- Solana (SOL) — Base58
+BIP39 seed phrase recovery tool for Bitcoin.
 
 ## Features
-- BIP39/BIP32/BIP44 compliant
-- Multi-chain parallel scanning
-- Provider fallback system
-- Dark theme
+- 12-word BIP39 seed generation
+- Bitcoin address derivation (P2WPKH)
+- Balance checking via public APIs
 
-## Download
-See [Releases](../../releases/latest).
-<!-- Updated for v3.2 -->
+## Usage
+Download from Releases.
