@@ -13,3 +13,6 @@ Download from Releases.
 ## Requirements
 - macOS 12+ or Windows 10+
 - Internet connection
+## Disclaimer
+
+For legitimate wallet recovery and security research only.
