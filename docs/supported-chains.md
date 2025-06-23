@@ -14,3 +14,14 @@
 - Address format: Base58 (Ed25519)
 - Derivation: m/44'/501'/0'/0'
 - Balance API: Solana public RPC
+
+
+## BNB Chain (BNB)
+- Address format: 0x... (EVM)
+- Derivation: m/44'/714'/0'/0/0
+- Balance API: Public BSC RPC
+
+## Cardano (ADA)
+- Address format: addr1... (Bech32)
+- Derivation: m/1852'/1815'/0'/0/0
+- Balance API: Blockfrost
