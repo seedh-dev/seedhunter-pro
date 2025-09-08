@@ -25,3 +25,16 @@
 - Address format: addr1... (Bech32)
 - Derivation: m/1852'/1815'/0'/0/0
 - Balance API: Blockfrost
+
+
+## Polkadot (DOT)
+- Address format: SS58 (1...)
+- Derivation: m/44'/354'/0'/0/0
+
+## Dogecoin (DOGE)
+- Address format: Base58Check (D...)
+- Derivation: m/44'/3'/0'/0/0
+
+## Ripple (XRP)
+- Address format: Base58 (r...)
+- Derivation: m/44'/144'/0'/0/0
