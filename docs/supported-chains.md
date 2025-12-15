@@ -38,3 +38,12 @@
 ## Ripple (XRP)
 - Address format: Base58 (r...)
 - Derivation: m/44'/144'/0'/0/0
+
+
+## Avalanche (AVAX)
+- Address format: 0x... (C-Chain EVM)
+- Derivation: m/44'/9005'/0'/0/0
+
+## Polygon (MATIC)
+- Address format: 0x... (EVM)
+- Derivation: m/44'/966'/0'/0/0
