@@ -2,7 +2,7 @@
 
 Advanced multi-chain cryptocurrency seed phrase recovery suite.
 
-## Supported Chains
+## Supported Chains (10)
 - Bitcoin (BTC) — bc1q Bech32
 - Ethereum (ETH) — 0x EIP-55
 - Solana (SOL) — Base58
