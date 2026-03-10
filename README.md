@@ -15,3 +15,4 @@ Advanced multi-chain cryptocurrency seed phrase recovery suite.
 
 ## Download
 See [Releases](../../releases/latest).
+<!-- Updated for v3.2 -->
