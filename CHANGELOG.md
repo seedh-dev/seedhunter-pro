@@ -30,3 +30,16 @@
 
 ## [1.0.0] — 2024-12-15
 - Initial release — Bitcoin support
+
+
+## [3.1.0] — 2026-01-20
+- Added Avalanche, Polygon support
+- Scan scheduling
+- Encrypted JSON export
+
+## [3.2.0] — 2026-03-15
+- Multi-chain parallel scanning
+- Real-time CoinGecko prices
+- Network status panel
+- Stealth mode with jitter
+- Complete UI overhaul
