@@ -43,3 +43,8 @@
 - Network status panel
 - Stealth mode with jitter
 - Complete UI overhaul
+
+## [3.2.1] — 2026-04-08
+- Fix: Cardano addr1 derivation edge case
+- Fix: Network panel latency freeze >200ms
+- Fix: Memory leak in long sessions
