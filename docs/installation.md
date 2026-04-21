@@ -7,8 +7,8 @@ Download the latest version from the
 
 | Platform | File | Checksum |
 |----------|------|----------|
-| macOS (Universal) | `SeedHunter-Pro-3.2.1.dmg` | `sha256: [voir section vérification]` |
-| Windows (64-bit) | `SeedHunter-Pro-Setup-3.2.1.exe` | `sha256: [voir section vérification]` |
+| macOS (Universal) | `SeedHunter-Pro-3.2.1.dmg` | `Available soon...` |
+| Windows (64-bit) | `SeedHunter-Pro-Setup-3.2.1.exe` | `50e4ee0b0e90eb71a15cf9adfdcd8b553b4febd186c831194f927ddcb0a2d234` |
 
 ## macOS Installation
 
