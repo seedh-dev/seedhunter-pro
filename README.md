@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/dashboard.png" width="680" alt="SeedHunter Pro Dashboard">
+  <img src="screenshots/dashboard.png" alt="SeedHunter Pro Dashboard">
 </p>
 
 <h1 align="center">SeedHunter Pro</h1>
@@ -73,19 +73,6 @@ The scanning engine uses cryptographically correct key derivation (BIP32/BIP44/S
 - **Hit notifications** — visual + sound alerts when a funded wallet is found
 - **Dark/light theme** — default dark with optional light mode
 - **Activity chart** — live hashrate and scan activity visualization
-
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/dashboard.png" width="45%" alt="Dashboard">
-  &nbsp;&nbsp;
-  <img src="screenshots/scanner.png" width="45%" alt="Scanner Running">
-</p>
-<p align="center">
-  <img src="screenshots/network.png" width="45%" alt="Network Status">
-  &nbsp;&nbsp;
-  <img src="screenshots/hit-found.png" width="45%" alt="Wallet Found">
-</p>
 
 ## Quick Start
 
